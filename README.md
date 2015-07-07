@@ -1,4 +1,4 @@
-# jQueryPlugin_BootstrapPanelTable
+# jQuery Plugin Bootstrap Panel Table
   A jQuery Plugin to create small Bootstrap Panel Tables - can be used in MVC
 
 ### By Carmel Shvartzman
@@ -9,25 +9,23 @@ http://carmelsoft.blogspot.com/2015/07/jquery-bootstrap-plugin-panel-table-for-m
 <a href="http://carmelsoft.blogspot.com/2015/07/jquery-bootstrap-plugin-panel-table-for-mvc.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
 
-<img border="0" height="518" src="http://4.bp.blogspot.com/-84Bo44dVLHI/VYv7-rw3GZI/AAAAAAAALTY/tJz4A-uSF1Y/s640/3.bmp" width="640" />
-
-<img border="0" height="640" src="http://2.bp.blogspot.com/-9oVkakgtpoU/VYv7-qwPrJI/AAAAAAAALTM/AY24yAb2_ms/s640/1.bmp" width="594" />
+<img border="0" height="554" src="http://2.bp.blogspot.com/-Ardwb7_mwws/VZuifQ648KI/AAAAAAAALWE/a0JiliLmLzk/s640/1.png" width="640" />
 
 
-<img border="0" height="640" src="http://2.bp.blogspot.com/-Rp3Tt8ugxVk/VYv7_1SRJBI/AAAAAAAALTc/Y5XE8kku7zg/s640/4.bmp" width="374" />
+<img border="0" height="478" src="http://2.bp.blogspot.com/-zvNqycpTvgQ/VZuifMX1i8I/AAAAAAAALVk/4mN0pem38Yk/s640/3.png" width="640" />
 
 
-<img border="0" height="516" src="http://2.bp.blogspot.com/-sbfvXdODEZw/VYv7-7eN1FI/AAAAAAAALTQ/81g8N3wa8mM/s640/2.bmp" width="640" />
+<img border="0" height="588" src="http://3.bp.blogspot.com/-wuKpVK07aOM/VZuifAKq24I/AAAAAAAALV4/c8cpNhzLTec/s640/2.png" width="640" />
 
 
-
-<img border="0" height="212" src="http://4.bp.blogspot.com/-u4GRJv0yu_M/VYv8lqYQcgI/AAAAAAAALTk/qi60AUayL3E/s640/5.bmp" width="640" />
+<img border="0" height="284" src="http://4.bp.blogspot.com/-F3xv97Ns02w/VZuigGBOciI/AAAAAAAALVw/9bY9ObWLQXQ/s640/4.png" width="640" />
 
 
 
-<img border="0" height="344" src="http://3.bp.blogspot.com/-FMniL3ivydM/VYv8mesKx6I/AAAAAAAALTs/YDoOvEAXpH0/s640/6.bmp" width="640" />
+<img border="0" height="344" src="http://3.bp.blogspot.com/-L0yKlWnokZY/VZuigWxZiDI/AAAAAAAALWA/HOgwQT_6daQ/s640/5.png" width="640" />
 
-
+<div style="direction: rtl;">
+פיתוח: כרמל שוורצמן</div>
 
 
 
