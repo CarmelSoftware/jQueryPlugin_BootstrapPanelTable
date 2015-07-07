@@ -22,7 +22,7 @@ http://carmelsoft.blogspot.com/2015/07/jquery-bootstrap-plugin-panel-table-for-m
 
 
 
-<img border="0" height="344" src="http://3.bp.blogspot.com/-L0yKlWnokZY/VZuigWxZiDI/AAAAAAAALWA/HOgwQT_6daQ/s640/5.png" width="640" />
+<img border="0" height="344" src="http://3.bp.blogspot.com/-L0yKlWnokZY/VZuigWxZiDI/AAAAAAAALWA/HOgwQT_6daQ/s640/5.png" width="640"    />
 
 <div style="direction: rtl;">
 פיתוח: כרמל שוורצמן</div>
