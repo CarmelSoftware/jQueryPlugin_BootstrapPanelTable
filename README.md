@@ -18,7 +18,7 @@ http://carmelsoft.blogspot.com/2015/07/jquery-bootstrap-plugin-panel-table-for-m
 <img border="0" height="588" src="http://3.bp.blogspot.com/-wuKpVK07aOM/VZuifAKq24I/AAAAAAAALV4/c8cpNhzLTec/s640/2.png" width="640" />
 
 
-<img border="0" height="284" src="http://4.bp.blogspot.com/-F3xv97Ns02w/VZuigGBOciI/AAAAAAAALVw/9bY9ObWLQXQ/s640/4.png" width="640" />
+<img border="0"     height="284" src="http://4.bp.blogspot.com/-F3xv97Ns02w/VZuigGBOciI/AAAAAAAALVw/9bY9ObWLQXQ/s640/4.png" width="640" />
 
 
 
